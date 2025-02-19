@@ -1,2 +1,1 @@
-# Vehicle-Image-Classification-with-MLOPS
-In this Project we would classify and identify different type of Vehicles from the images using MLOPS
+# End-to-end-CNN-deep-learning-vehicle-image-classification-with-MLOps-DVC-pipeline-Azure-deployment
