@@ -1,0 +1,2 @@
+Vehicle[[:space:]]Images*.zip filter=lfs diff=lfs merge=lfs -text
+Vehicle[[:space:]]Images.zip filter=lfs diff=lfs merge=lfs -text
